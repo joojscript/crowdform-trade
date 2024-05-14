@@ -1,0 +1,61 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<App /> > should be true 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <main
+      class="main"
+    >
+      <h1
+        class="title"
+      >
+        Uniswap Swap Widget
+      </h1>
+      <div
+        class="demo"
+      >
+        <div
+          class="widget"
+        >
+          <div
+            class="WidgetWrapper__StyledWidgetWrapper-sc-11krezp-0 eiYzsD"
+            width="360"
+          />
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`<App /> > should match snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <main
+      class="main"
+    >
+      <h1
+        class="title"
+      >
+        Uniswap Swap Widget
+      </h1>
+      <div
+        class="demo"
+      >
+        <div
+          class="widget"
+        >
+          <div
+            class="WidgetWrapper__StyledWidgetWrapper-sc-11krezp-0 eiYzsD"
+            width="360"
+          />
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+`;
